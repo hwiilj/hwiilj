@@ -3,6 +3,8 @@
 - 🔭 I’m currently working for Samsung Electronics in SoC Platform Dev Team
 - 🌱 I’m currently learning Kernel/C/C++
 - 😄 I'm enjoying Solving Algorithm Problems
+pip install -r requirements.txt
+python manage.py runserver
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhi1432)](https://solved.ac/jhi1432)
 <!--
